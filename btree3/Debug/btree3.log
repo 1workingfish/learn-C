@@ -1,0 +1,6 @@
+﻿  btree.c
+  test.c
+  正在生成代码...
+D:\C\btree3\btree.c(26): warning C4715: “Insert”: 不是所有的控件路径都返回值
+D:\C\btree3\btree.c(121): warning C4715: “Find1”: 不是所有的控件路径都返回值
+  btree3.vcxproj -> D:\C\btree3\Debug\btree3.exe
